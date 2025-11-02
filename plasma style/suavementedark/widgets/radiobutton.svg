@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="47"
+   height="15.499999"
+   viewBox="0 0 47 15.499999"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   sodipodi:docname="radiobutton.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#d1d1d1"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="18.647648"
+     inkscape:cx="19.948897"
+     inkscape:cy="12.360808"
+     inkscape:current-layer="layer1"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="-2.5976562e-06"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient173"
+       id="linearGradient292"
+       gradientUnits="userSpaceOnUse"
+       x1="-67"
+       y1="-23"
+       x2="-58"
+       y2="-13.999999"
+       gradientTransform="translate(175.76666,171)" />
+    <linearGradient
+       id="linearGradient173"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#101112;stop-opacity:1;"
+         offset="0"
+         id="stop173" />
+      <stop
+         style="stop-color:#37383a;stop-opacity:1;"
+         offset="1"
+         id="stop174" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient173"
+       id="linearGradient293"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(15.5)"
+       x1="-67"
+       y1="-23"
+       x2="-58"
+       y2="-13.999999" />
+  </defs>
+  <style
+     id="current-color-scheme"
+     type="text/css">
+      .ColorScheme-Text {
+      }
+      .ColorScheme-Background{
+      }
+      .ColorScheme-Highlight{
+      }
+      .ColorScheme-ViewText {
+      }
+      .ColorScheme-ViewBackground{
+      }
+      .ColorScheme-ViewHover {
+      }
+      .ColorScheme-ViewFocus{
+      }
+      .ColorScheme-ButtonText {
+      }
+      .ColorScheme-ButtonBackground{
+      }
+      .ColorScheme-ButtonHover {
+      }
+      .ColorScheme-ButtonFocus{
+      }
+    </style>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-105.76666,-145)">
+    <circle
+       id="hint-size"
+       cx="145.26666"
+       cy="152.5"
+       style="opacity:0.5;fill:#008080;fill-rule:evenodd;stroke-width:1.0625"
+       r="7.5" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:1.07417;stroke-dasharray:none;stroke-opacity:1"
+       id="rect324"
+       width="15"
+       height="14.999999"
+       x="113.49999"
+       y="145.5" />
+    <ellipse
+       style="fill:url(#linearGradient292);fill-opacity:1;stroke:#9c9893;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="normal"
+       cx="113.26666"
+       cy="152.5"
+       rx="7"
+       ry="6.9999995" />
+    <g
+       id="checked"
+       transform="translate(176.26666,171)">
+      <ellipse
+         style="fill:url(#linearGradient293);fill-opacity:1;stroke:#9c9893;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse292"
+         cx="-47"
+         cy="-18.5"
+         rx="7"
+         ry="6.9999995" />
+      <circle
+         r="3.5000007"
+         cy="-17.5"
+         cx="-46"
+         id="circle292"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="3.5000007"
+         cy="-18.5"
+         cx="-47"
+         id="circle293"
+         style="fill:#9c9893;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

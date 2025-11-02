@@ -1,0 +1,57 @@
+tldr: war crimes.
+
+i set the title alignment to top and i am manually adjusting it to "center" it with TitleEdgeTop and TitleEdgeTopMaximized along with the buttons
+is this terrible terribleness: probably, idk i just started my theming journey
+
+kOOOkkkkkkxxxxxxxxxxxxxkkkkkkkxxxxxkkkxxxxxxxxxxxxxxxxxxxxxxxxxxxxxkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+kOOOkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkxxxxxxxxxxxkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkOOOO
+kOOOkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkxxxxxxkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkOOOOOO
+kOOkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkxxxxkkkkkkkkkkkkkkkkkkkOOOOOOOOOOOOOOOOOOOOO0
+kOOkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkOOOkkkkkkkkkOOOOOOOOOOOOOOOOOOOOOO00
+kOOkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkOOOOOOkkkOOOOOOOOOOOOOOOOOOOOOOOOOO00
+kOOkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkxddxkkOkxodxkkkOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO00
+kOOOkkkkkOOOOOOOOOkkkkkkkOOkOOkkkkkkkkkkkkkkkkkx:,;;cclc:;:oxkkOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO00
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOkkkkkkkkxdc,,'  .....':ldkOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO00
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOkkkkkkkkxo;','.'::;'..;cdkOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO00
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOkkOOkkkxc'..':xOO0c'',cokOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+kOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOkkOOOOkl;''..dKXXXl',;;lkOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+kOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOkkOOOOOxl;',..l0KX0:';;':kOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+kOOOOkkkkkkOOOOOOOOOOOOOOOOOOOOOOOOOOkkOOOOOkxc''...',;'..;,,oOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOkkkkk
+kOOOOkkkkkkkOOOOOOxolodxkOOOOOOOOOOOOkkOOOOOOkl'..  .    .',lkOOOOOOOOOOOOOOOOOOOOOOOOOOOOkkkkkxxxxx
+OOOOOkkkkkkkkkkkkkx:,,;cldxkkkkOOOOOOOOOOOOkOko''...''..  .,dOOOOOOOOOOOOOOOOOOOOOOOOOOkkkkkkkkxxxxx
+OOOOOOkkkkkkkkOkOkxl;,,,,;cldkkOOOOOOOOOOOOkOko,....;c:,. .'oOOOOOOOOOOOOkkkkkOOOOOOOkkkkkkkkkkkkkkk
+OOOOOOOOOOOkkkOOOkkdc;''''';cxkOOOOOOOOOOOOOOxc. ....',..  .oOOOOOOOK0xolccc;lkkkOOOOOOOkkkkkkkOOOOO
+OOOOOOOOOOOkkkOkkOkxoc'...'';oxkOOOOOOOOOOOOOxl,.....      .lxOOOOOOkdc;;,,;:okkOOOOOOOOOOOOOOOOOOOO
+OOOOOOOOOOOOOOkkkkkkdl;'...',:okkOOOOOOOkkkOOkdcc:,..  ..',:dkOOOOOOdc,,,,',dkOOOOOOOOOOOOOOOOOOOOOO
+OOOOOOOOOOOkkkkOkkkkxdc,'..'',cdkkOOOOOOkkxkOOxdddl:'. :oddxO0OOOOOOl;',,,,;xOO000OOOOOOOOOOOOOOOOOO
+OOOOOOOOOOkxxxkkkkkkkxdc;'''..;lxxdddxkkOOkOOOxdkkdc;..:xkxxkkOOOO0O:....',lxkO000OOOOOOOOOOOOOOOOOO
+OOOOOOOOOkxollllc::::cxxo:,'..,::;,',coxO00Oxoc:ll:,'...:odOOxOOO000,. ..,ckOO00000OOOOOOOOOOOOOOOOO
+OOOOOOOkkxdl:;,'......;oxd:'...,,.....,:lddlc;''''......,',ldokOO00O,. .,coddxxxxkO0OOOOOOOOOOOOOOOO
+OOOOOOkkkkxdl;'........,lxo,.............,;;,''........,;'.';cdkOKOd'  .;ll,,,,;;:okOOOOOOOOOOOOOOOO
+OOOOOOOOkOOOxl,'''''''..;cc,..........   .'''''''''''''.....,;lxOKOxc;,;:ol,,,'''';okOOOOOkdlcldkkOO
+OO0OOOOOOOO0OOxoc'..''....''..........   .''''''''',;;;,'',:clx0KXKK0kk00OOkkk;'':ok0OOOkkkxxddxxxxx
+O000OOOOOO000KK0xl;,''''............    .''''''''',,;;;,''lxOKXXXXXXKOOKK00KXXx,,oO00000OOOOOOOOOOOO
+0000OOOOOOOOOOOkxolcc:,'..........      .''''''''',;;;;'..dKKXXXXXXKKOOKK00000l.lO00000000000OOO000O
+0000OOOkkxddddolc::cllc;'... ...        .',,,,'''',;;;;...dKKKKKXXXXXOO00OOOOOd.ckkOOOOkkkkkkkkkkkkk
+O000O00kdolc:;;,'''',;::;'.....        ...',;:;,'',;;;,...dKKKKKXXXXKOO0000000o.;clllllllcccc:;;lxkk
+O00OO00xo:;,,''......''',,,'...............,:lll:,,,;;....dKKKKKXXXKKOO000OOOk:.;;,,,,,,,;;'..',lxO0
+OOOOOOOxo:,,''.............'.............. ..';:c:;;;'....dKKKKKXXXKKOO000OOkx;.;,,;;;;;cdo,.'lddx00
+OOOOOkkxddol:;,''....'''............'''...    ....',;'....dKKKKKXXXKKOO00000Oo,,:;:odddxkOkc,;ddclk0
+OOOOkkkkkkkkxdo:,'..'''''...........''''...       ..'.....lkO0KXXXXXK000000XOl;ccldkOOO00Okoc;ll,;dk
+kOOOkkkkkxxkkOOkxl::cccc;,'.........''''...           .....'';ok0kkkkkkxxdxkl:loxkkOOOOO0OOOkxolc:::
+kOOOOOOOOOOO000K0kddxxxdolc::;,'.....'''..      .........................',:;:lodkkOOOOOOOO000Okdllc
+kOOOOOOOOOOkkkkxdl::cccc:::;;;,'......''..    ..''''.......            ...'',,;;;:lxkkkkkOOOO0000Okd
+kOOOOOOkkkxdllc:;......................'... ...''..................  ....'',,,,',,,;;:::loxkOOO000OO
+0kkkxddolc:;,,,,''..''.......................,''.................... ....'''''''''''''''',;cldkOOOOO
+xolc::;;,,''''''........'...................'''.........    ..............''''''''',,'''...'';:loooo
+c;,''''''''',,,''.......,;;,,'''''..........'..........      ..''''........';::::cclc;,'........'',;
+;,,''''',,;;;;:;;;;;;;,;lolc:;;;;;,,...................      .',,,,'.......cdkOOOOOkxdoc,'..........
+;,,,,,';;:cclooooooodddxxdl;,,,,,,,,,.................       .,,,,,'.......,cdxxkOOOOOkxoc;,'',,''''
+;,,,,,,cddxkkOOOOOOOOOkdc;',;;;;;;;,,,................       .,,;,,'.......';lxO00OO00Okkdl,'';:;;;;
+;,,,,:ok0OOOOO00000OOkl;,''',,,,,,,,;,'............          .,,,;,'....''''',cdkO0OOO0OOkd:,,,;;;,,
+;,,;cdO0000OOO00Okxdol,'',,,'',,,,;;;;;'.......... ...........,,,,,'''',;::,,',;ldO0OOO00Okdc;,;,,,,
+,,:ok00000000OOOxdlc;;,,,;;,,,,;;;;;;;;,'.....................,,,,,''',;cll:;,'',:okOOOOOOOOko:;,,,,
+;cdk000O000000Oxol:;,,,;;;;;;;;;;;;;;;;;,'............'''.....',,,,''',;:ll:;,'.',;:ldkOOO000Odc,.''
+cdO00OOOOOOOOkdoc:,'',,;;;;;;;;;;;;;;,;;,,'...  ......'''......'',,'''',:ll:;,...''',:ldkOOOOOOxc'..
+
+                                    thumbs up v1 for no reason

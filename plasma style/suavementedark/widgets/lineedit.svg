@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg2"
+   viewBox="0 0 104 166.00001"
+   version="1.1"
+   width="104.00001"
+   height="166"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="lineedit.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <g
+     id="base-top">
+    <rect
+       style="opacity:1;fill:#2b2b2b;fill-opacity:1;fill-rule:evenodd;stroke-width:4"
+       height="3"
+       width="25"
+       x="55.000004"
+       y="21.000004"
+       id="rect11475" />
+    <rect
+       style="opacity:1;fill:#545454;fill-opacity:1;fill-rule:evenodd;stroke-width:4"
+       height="1"
+       width="25"
+       x="55.000004"
+       y="21.000004"
+       id="rect11469" />
+  </g>
+  <sodipodi:namedview
+     inkscape:showpageshadow="false"
+     fit-margin-bottom="20"
+     fit-margin-right="20"
+     fit-margin-left="20"
+     fit-margin-top="20"
+     pagecolor="#eeeeee"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1601"
+     inkscape:window-height="964"
+     id="namedview75"
+     showgrid="true"
+     inkscape:pagecheckerboard="true"
+     inkscape:zoom="9.033661"
+     inkscape:cx="56.400168"
+     inkscape:cy="163.38891"
+     inkscape:current-layer="svg2"
+     inkscape:window-x="167"
+     inkscape:window-y="92"
+     inkscape:window-maximized="0"
+     showguides="false"
+     inkscape:deskcolor="#c6c6c6">
+    <inkscape:grid
+       type="xygrid"
+       id="grid931"
+       originx="-39.999997"
+       originy="7.0000044" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3612"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#8d8d8d;stop-opacity:0.41568628;"
+         offset="0"
+         id="stop3610" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3606"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3604" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3600"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3598" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3594"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3592" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3588"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#a4a4a4;stop-opacity:0.39603961;"
+         offset="0"
+         id="stop3586" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2714"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#383838;stop-opacity:1;"
+         offset="0"
+         id="stop2712" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient940"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#292929;stop-opacity:1;"
+         offset="0"
+         id="stop938" />
+    </linearGradient>
+    <linearGradient
+       id="tabfillcolor"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#222222;stop-opacity:1;"
+         offset="0"
+         id="stop927" />
+    </linearGradient>
+    <linearGradient
+       id="focus-outer"
+       inkscape:swatch="solid">
+      <stop
+         id="stop2078"
+         offset="0"
+         style="stop-color:#1c1c1c;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="margin"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#282828;stop-opacity:0.61386138;"
+         offset="0"
+         id="stop1552" />
+    </linearGradient>
+    <style
+       id="current-color-scheme"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+        stop-color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        
+        stop-
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+        stop-color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+        stop-color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        
+        stop-
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+        stop-color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+        stop-color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        
+        stop-
+      }
+      </style>
+    <linearGradient
+       id="fill"
+       inkscape:swatch="solid">
+      <stop
+         id="stop1809"
+         offset="0"
+         style="stop-color:#15bd40;stop-opacity:0.15686275;" />
+    </linearGradient>
+    <linearGradient
+       id="Inner"
+       inkscape:swatch="solid">
+      <stop
+         id="stop1793"
+         offset="0"
+         style="stop-color:#606060;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4932">
+      <stop
+         style="stop-color:#000000;stop-opacity:0.00392157;"
+         offset="0"
+         id="stop4934" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4936" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     id="base-center"
+     y="24"
+     x="55"
+     width="25"
+     height="25"
+     style="opacity:1;fill:#2b2b2b;fill-opacity:1;fill-rule:evenodd;stroke-width:4" />
+  <rect
+     y="30.000004"
+     x="33.000004"
+     height="6.0000014"
+     width="0.99999917"
+     id="base-hint-top-margin"
+     style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2" />
+  <rect
+     style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2"
+     id="base-hint-left-margin"
+     width="6.000001"
+     height="1.0000006"
+     x="26.000004"
+     y="37.000004" />
+  <rect
+     y="37.000004"
+     x="35.000004"
+     height="1.0000006"
+     width="5.999999"
+     id="base-hint-right-margin"
+     style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2" />
+  <rect
+     style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2"
+     id="base-hint-bottom-margin"
+     width="1"
+     height="6"
+     x="33.000004"
+     y="39.000004" />
+  <rect
+     id="focus-center"
+     y="69"
+     x="55"
+     width="25"
+     height="25"
+     style="opacity:1;fill:#212121;fill-opacity:1;fill-rule:evenodd;stroke-width:4" />
+  <rect
+     id="hover-center"
+     y="117"
+     x="55"
+     width="25"
+     height="25"
+     style="opacity:0.13;fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:4" />
+  <g
+     id="hover-top"
+     transform="translate(-39.999997,51.02253)">
+    <rect
+       id="rect2802"
+       y="62.977474"
+       x="95"
+       width="25"
+       height="3"
+       style="opacity:0.3;fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:4" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:4"
+       height="1"
+       width="25"
+       x="95"
+       y="63.977482"
+       id="rect2804" />
+    <rect
+       id="rect2806"
+       y="62.977482"
+       x="95"
+       width="25"
+       height="1"
+       style="opacity:1;fill:#5e5e5e;fill-opacity:1;fill-rule:evenodd;stroke-width:4" />
+  </g>
+  <rect
+     width="2.0329318"
+     height="2.077126"
+     rx="0"
+     ry="2.077126"
+     x="31.000004"
+     y="139"
+     id="hint-focus-over-base"
+     style="opacity:0.99;fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+  <rect
+     y="122.99001"
+     x="34.000004"
+     height="0.010000022"
+     width="0.99999917"
+     id="hover-hint-top-margin"
+     style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2" />
+  <rect
+     style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2"
+     id="hover-hint-left-margin"
+     width="0.010000021"
+     height="1.0000006"
+     x="32.990002"
+     y="124" />
+  <rect
+     y="124.00001"
+     x="36.000004"
+     height="1.0000006"
+     width="0.010000018"
+     id="hover-hint-right-margin"
+     style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2" />
+  <rect
+     style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2"
+     id="hover-hint-bottom-margin"
+     width="1"
+     height="0.01000002"
+     x="34.000004"
+     y="126.00001" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#hover-top"
+     id="hover-bottom"
+     transform="matrix(1,0,0,-1,0,259.00001)" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#hover-top"
+     id="hover-right"
+     transform="rotate(90,67.500003,129.5)" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#hover-top"
+     id="hover-left"
+     transform="rotate(-90,67.499991,129.5)" />
+  <g
+     id="focus-top"
+     transform="translate(-39.999997,3.0225338)">
+    <rect
+       id="rect6936"
+       y="62.977474"
+       x="95"
+       width="25"
+       height="3"
+       style="opacity:1;fill:#212121;fill-opacity:1;fill-rule:evenodd;stroke-width:4" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:4"
+       height="1"
+       width="25"
+       x="95"
+       y="63.977482"
+       id="rect6938" />
+    <rect
+       id="rect6940"
+       y="62.977482"
+       x="95"
+       width="25"
+       height="1"
+       style="opacity:1;fill:#6e6453;fill-opacity:1;fill-rule:evenodd;stroke-width:4" />
+  </g>
+  <use
+     x="0"
+     y="0"
+     xlink:href="#focus-top"
+     id="focus-bottom"
+     transform="matrix(1,0,0,-1,0,163.00001)" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#focus-top"
+     id="focus-right"
+     transform="rotate(90,67.500005,81.500006)" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#focus-top"
+     id="focus-left"
+     transform="rotate(-90,67.500001,81.500006)" />
+  <rect
+     y="72.990013"
+     x="34.000004"
+     height="0.010000022"
+     width="0.99999917"
+     id="focus-hint-top-margin"
+     style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2" />
+  <rect
+     style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2"
+     id="focus-hint-left-margin"
+     width="0.010000021"
+     height="1.0000006"
+     x="32.990002"
+     y="74" />
+  <rect
+     y="74.000008"
+     x="36.000004"
+     height="1.0000006"
+     width="0.010000018"
+     id="focus-hint-right-margin"
+     style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2" />
+  <rect
+     style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2"
+     id="focus-hint-bottom-margin"
+     width="1"
+     height="0.01000002"
+     x="34.000004"
+     y="76.000008" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#base-top"
+     id="base-bottom"
+     transform="matrix(1,0,0,-1,-8.1469716e-7,73.000009)" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#base-top"
+     id="base-right"
+     transform="rotate(90,67.500003,36.500004)" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#base-top"
+     id="base-left"
+     transform="rotate(-90,67.500004,36.500005)" />
+  <g
+     id="base-topright"
+     transform="translate(-6.999997,2.0000006)">
+    <rect
+       style="opacity:1;fill:none;fill-opacity:0.235294;fill-rule:evenodd;stroke-width:4"
+       height="3"
+       width="3"
+       x="87"
+       y="19.000004"
+       id="rect24182" />
+    <path
+       style="opacity:1;fill:#545454;fill-opacity:1;stroke-width:8;stroke-linejoin:bevel"
+       id="path23921"
+       sodipodi:type="arc"
+       sodipodi:cx="87"
+       sodipodi:cy="22.000004"
+       sodipodi:rx="3"
+       sodipodi:ry="3"
+       sodipodi:start="4.712389"
+       sodipodi:end="6.2831853"
+       sodipodi:arc-type="slice"
+       d="m 87,19.000004 a 3,3 0 0 1 3,3 h -3 z" />
+    <path
+       style="opacity:1;fill:#2b2b2b;fill-opacity:1;stroke-width:8;stroke-linejoin:bevel"
+       id="path23923"
+       sodipodi:type="arc"
+       sodipodi:cx="87"
+       sodipodi:cy="22.000004"
+       sodipodi:rx="2.0000031"
+       sodipodi:ry="1.9999994"
+       sodipodi:start="4.712389"
+       sodipodi:end="6.2831853"
+       sodipodi:arc-type="slice"
+       d="m 87,20.000004 a 2.0000031,1.9999994 0 0 1 2.000003,2 H 87 Z" />
+  </g>
+  <use
+     x="0"
+     y="0"
+     xlink:href="#base-topright"
+     id="base-topleft"
+     transform="matrix(-1,0,0,1,135.00001,-1.4697264e-8)" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#base-topright"
+     id="base-bottomright"
+     transform="matrix(1,0,0,-1,0,73.000009)" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#base-topright"
+     id="base-bottomleft"
+     transform="rotate(180,67.500003,36.500004)" />
+  <g
+     id="hover-topright"
+     transform="translate(-6.999997,0.99999677)">
+    <rect
+       id="rect2834"
+       y="113.00001"
+       x="87"
+       width="3"
+       height="3"
+       style="opacity:0.3;fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:4" />
+    <path
+       id="path24406"
+       style="opacity:1;fill:#5e5e5e;fill-opacity:1;stroke-width:8;stroke-linejoin:bevel"
+       d="m 87,113 v 1 a 2.0000031,2.0000033 0 0 1 2,2 h 1 a 3,3 0 0 0 -3,-3 z" />
+    <path
+       id="path25136"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:8.00001;stroke-linejoin:bevel"
+       d="m 87.000003,114 v 1 h 1 v 1 h 1 a 2.0000031,2.0000033 0 0 0 -2,-2 z" />
+  </g>
+  <use
+     x="0"
+     y="0"
+     xlink:href="#hover-topright"
+     id="hover-topleft"
+     transform="matrix(-1,0,0,1,135,-1.6399395e-5)" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#hover-topright"
+     id="hover-bottomright"
+     transform="matrix(1,0,0,-1,0,259)" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#hover-topright"
+     id="hover-bottomleft"
+     transform="rotate(180,67.500003,129.5)" />
+  <g
+     id="focus-topright"
+     transform="translate(-7.999997,1.9999968)">
+    <rect
+       id="rect2774"
+       y="64.000008"
+       x="88"
+       width="3"
+       height="3"
+       style="opacity:0.3;fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:4" />
+    <path
+       id="path7513"
+       style="opacity:1;fill:#6e6453;fill-opacity:1;stroke-width:8;stroke-linejoin:bevel"
+       d="m 88,64 v 1 a 2.0000031,2.0000033 0 0 1 2,2 h 1 a 3,3 0 0 0 -3,-3 z" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:8.00001;stroke-linejoin:bevel"
+       id="path25888"
+       sodipodi:type="arc"
+       sodipodi:cx="88"
+       sodipodi:cy="67.000008"
+       sodipodi:rx="2.0000031"
+       sodipodi:ry="2.0000033"
+       sodipodi:start="4.712389"
+       sodipodi:end="6.2831853"
+       sodipodi:arc-type="slice"
+       d="m 88,65.000004 a 2.0000031,2.0000033 0 0 1 2.000003,2.000004 H 88 Z" />
+    <rect
+       id="rect2767"
+       y="66.000008"
+       x="88"
+       width="1"
+       height="1"
+       style="fill:#212121;fill-opacity:1;fill-rule:evenodd;stroke-width:4" />
+  </g>
+  <use
+     x="0"
+     y="0"
+     xlink:href="#focus-topright"
+     id="focus-topleft"
+     transform="matrix(-1,0,0,1,135.00001,7.6e-6)" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#focus-topright"
+     id="focus-bottomright"
+     transform="matrix(1,0,0,-1,0,163)" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#focus-topright"
+     id="focus-bottomleft"
+     transform="rotate(180,67.500003,81.500004)" />
+</svg>

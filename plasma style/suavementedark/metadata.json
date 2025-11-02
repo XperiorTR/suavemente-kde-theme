@@ -1,0 +1,25 @@
+{
+    "KPackageStructure": "Plasma/Theme",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Original Author of Suave": "Mark Whittaker",
+                "Original Author Email": "phobian@tutanota.com",
+
+                "The inexperienced guy that modified it for the funny": "xperior"
+            }
+        ],
+        "Category": "Plasma Theme",
+        "ServiceTypes": [
+            "Plasma/Theme"
+        ],
+        "EnabledByDefault": true,
+        "Name": "Suavemente Dark",
+        "Description": "Suave, aka. what this theme is based on was made by phobian\nI liked how the theme looked but its color didnt really fit my desktop background (gnome blobs) so i randomly decided to edit it and now im learning both plasma theming and inkscape through this while implementing what comes to my mind and looks cool:tm:. no i dont have any graphics design experience\nThis theme uses gruvbox colors :)\n\ni dont think ill ever even share this theme idk why im even bothering to make a description",
+        "Id": "suavementedark",
+        "Version": "1.0",
+        "License": "GPL-2.0+",
+        "X-KPackage-Dependencies": [
+        ]
+    }
+}
