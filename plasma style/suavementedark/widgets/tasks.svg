@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="19.57"
-     inkscape:cx="75.012776"
-     inkscape:cy="0.99642311"
+     inkscape:zoom="6.9190397"
+     inkscape:cx="68.940203"
+     inkscape:cy="40.25125"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -46,7 +46,7 @@
      inkscape:deskcolor="#d1d1d1"
      borderlayer="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1020"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1">
@@ -62,6 +62,18 @@
   </sodipodi:namedview>
   <defs
      id="defs2">
+    <linearGradient
+       id="linearGradient6"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#3c383c;stop-opacity:1;"
+         offset="0"
+         id="stop6" />
+      <stop
+         style="stop-color:#504945;stop-opacity:1;"
+         offset="1"
+         id="stop7" />
+    </linearGradient>
     <inkscape:path-effect
        effect="fillet_chamfer"
        id="path-effect2"
@@ -195,18 +207,6 @@
        apply_with_radius="true"
        only_selected="false"
        hide_knots="false" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient110">
-      <stop
-         style="stop-color:#3c383c;stop-opacity:1;"
-         offset="0"
-         id="stop109" />
-      <stop
-         style="stop-color:#504945;stop-opacity:1;"
-         offset="1"
-         id="stop110" />
-    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient108">
@@ -507,7 +507,7 @@
        y1="45"
        x2="191"
        y2="13.000003"
-       gradientTransform="matrix(0.81249999,0,0,0.81250001,-170.18761,856.95715)" />
+       gradientTransform="matrix(0.81249999,0,0,0.81250001,-119.18762,880.95716)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient24"
@@ -528,16 +528,6 @@
        y2="890.51965"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.9999017,0,0,1,-28.997099,0)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient110"
-       id="linearGradient3"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.12500045,0,0,0.81250008,-12.875095,-230.56246)"
-       x1="191"
-       y1="45"
-       x2="191"
-       y2="13.000003" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient149"
@@ -577,7 +567,7 @@
        xlink:href="#linearGradient4"
        id="linearGradient97"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.81249999,0,0,0.81250001,-122.18761,856.95715)"
+       gradientTransform="matrix(0.81249999,0,0,0.81250001,-71.187617,880.95716)"
        x1="191"
        y1="45"
        x2="191"
@@ -735,11 +725,21 @@
        xlink:href="#linearGradient144"
        id="linearGradient143"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.81249999,0,0,0.81250001,-65.187603,856.95715)"
+       gradientTransform="matrix(0.81249999,0,0,0.81250001,-14.187609,880.95716)"
        x1="191"
        y1="45"
        x2="191"
        y2="13.000003" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6"
+       id="linearGradient7"
+       x1="-15.000113"
+       y1="893.51965"
+       x2="-15.000117"
+       y2="867.51965"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(30.00012,-1087.5194)" />
   </defs>
   <metadata
      id="metadata5">
@@ -1186,11 +1186,11 @@
        id="normal-center"
        width="26"
        height="26"
-       x="-15.000113"
-       y="867.51965" />
+       x="35.999882"
+       y="891.51965" />
     <g
        id="normal-top"
-       transform="matrix(0.81250012,0,0,1.3333325,-170.18764,848.51966)"
+       transform="matrix(0.81250012,0,0,1.3333325,-119.18765,872.51967)"
        style="stroke-width:0.866026">
       <rect
          style="fill:none;fill-opacity:1;stroke-width:1.73203"
@@ -1217,7 +1217,7 @@
     </g>
     <g
        id="normal-bottom"
-       transform="matrix(0.8125001,0,0,-1.3333342,-170.18763,912.51966)"
+       transform="matrix(0.8125001,0,0,-1.3333342,-119.18764,936.51967)"
        style="stroke-width:0.866025">
       <rect
          style="fill:none;fill-opacity:1;stroke-width:1.73204"
@@ -1253,22 +1253,22 @@
     </g>
     <g
        id="normal-left"
-       transform="rotate(-90,528.75974,558.75986)">
+       transform="rotate(-90,566.25974,545.25987)">
       <rect
-         style="fill:none;fill-opacity:1;stroke-width:1.80277"
+         style="fill:url(#linearGradient7);stroke-width:2.6"
+         id="rect1"
+         width="4"
+         height="25.999996"
+         x="11.000008"
+         y="-219.99995"
+         transform="rotate(90)" />
+      <rect
+         style="opacity:0;fill:none;fill-opacity:1;stroke-width:1.80277"
          id="rect4"
          width="25.999994"
          height="1.9999963"
          x="193.99995"
          y="8.9999981" />
-      <rect
-         style="fill:url(#linearGradient3);fill-opacity:1;stroke-width:0.637376"
-         id="normal-center-2"
-         width="4.0000143"
-         height="26"
-         x="10.999994"
-         y="-219.99995"
-         transform="rotate(90)" />
       <rect
          style="opacity:1;fill:url(#linearGradient68);stroke-width:2.6"
          id="rect67"
@@ -1280,7 +1280,7 @@
     </g>
     <g
        id="normal-topleft"
-       transform="matrix(0,-0.12499985,1.0000024,0,-30.000132,888.39462)"
+       transform="matrix(0,-0.12499985,1.0000024,0,20.999862,912.39463)"
        style="stroke-width:2.82843">
       <rect
          style="fill:none;fill-opacity:1;stroke-width:12.9614"
@@ -1297,20 +1297,13 @@
          x="-18.000113"
          y="864.51965"
          transform="matrix(0,1.3333299,-10.666685,0,9420.5588,35.000082)"
-         inkscape:path-effect="#path-effect15"
          sodipodi:type="rect"
-         d="m -15.000112,864.51965 v 3 h -3.000001 a 2.9999974,2.9999974 135.00007 0 1 3.000001,-3 z" />
+         d="m -15.000112,864.51965 v 3 h -3.000001 a 2.9999974,2.9999974 135.00007 0 1 3.000001,-3 z"
+         inkscape:path-effect="#path-effect15" />
     </g>
     <g
        id="group-expander-bottom"
-       transform="translate(-110.99999,-39.000001)">
-      <rect
-         style="opacity:0.15;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.30001;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect70"
-         width="10.999969"
-         height="2.9999998"
-         x="261.99988"
-         y="947.51965" />
+       transform="translate(-60.999994,-33.000001)">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1.3;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect61"
@@ -1324,67 +1317,67 @@
          width="2"
          height="2"
          x="261.99988"
-         y="947.51965" />
+         y="944.51965" />
       <rect
          style="opacity:1;fill:#d9d9db;fill-opacity:1;stroke:none;stroke-width:1.83849;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect66"
          width="2"
          height="4.0000005"
          x="265.99988"
-         y="945.51965" />
+         y="943.51965" />
       <rect
          style="opacity:1;fill:#d9d9db;fill-opacity:1;stroke:none;stroke-width:1.30001;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect68"
          width="2"
          height="2"
          x="269.99988"
-         y="947.51965" />
+         y="944.51965" />
     </g>
     <use
        x="0"
        y="0"
        xlink:href="#normal-center"
        id="minimized-center"
-       transform="translate(4.2536854e-6,56)" />
+       transform="translate(5.328592e-6,56)" />
     <use
        x="0"
        y="0"
        xlink:href="#normal-top"
        id="minimized-top"
-       transform="translate(4.2536854e-6,56)" />
+       transform="translate(5.328592e-6,56)" />
     <use
        x="0"
        y="0"
        xlink:href="#normal-bottom"
        id="minimized-bottom"
-       transform="translate(4.2536854e-6,56)" />
+       transform="translate(5.328592e-6,56)" />
     <use
        x="0"
        y="0"
        xlink:href="#normal-left"
        id="minimized-left"
-       transform="translate(4.2536854e-6,56)" />
+       transform="translate(5.328592e-6,55.999988)" />
     <use
        x="0"
        y="0"
        xlink:href="#normal-topleft"
        id="minimized-topleft"
-       transform="translate(4.2536854e-6,56)" />
+       transform="translate(5.328592e-6,56)" />
     <use
        x="0"
        y="0"
        xlink:href="#normal-topleft"
        id="normal-topright"
-       transform="matrix(-1,0,0,1,-4.0002253,1.3457338e-8)" />
+       transform="matrix(-1,0,0,1,97.999762,2.2301815e-7)" />
     <use
        x="0"
        y="0"
        xlink:href="#normal-left"
        id="normal-right"
-       transform="matrix(-1,0,0,1,-4.0002252,6.1309813e-6)" />
+       transform="matrix(-1,0,0,1,97.999762,-5.7769818e-6)" />
     <g
        id="normal-bottomleft"
-       transform="matrix(0,0.12499985,1.0000024,0,-30.000132,872.64468)"
+       transform="matrix(0,0.12499985,1.0000024,0,20.999862,896.64469)"
        style="stroke-width:2.82843">
       <rect
          style="fill:none;fill-opacity:1;stroke-width:12.9614"
@@ -1421,17 +1414,17 @@
        y="0"
        xlink:href="#normal-bottomleft"
        id="normal-bottomright"
-       transform="matrix(-1,0,0,1,-4.0002253,3.8012413e-6)" />
+       transform="matrix(-1,0,0,1,97.999762,4.2230182e-6)" />
     <rect
        style="fill:url(#linearGradient97);fill-opacity:1;stroke-width:1.625"
        id="focus-center"
        width="26"
        height="26"
-       x="32.999886"
-       y="867.51965" />
+       x="83.999878"
+       y="891.51965" />
     <g
        id="focus-top"
-       transform="matrix(0.81250012,0,0,1.3333325,-122.18764,848.51966)"
+       transform="matrix(0.81250012,0,0,1.3333325,-71.187647,872.51967)"
        style="stroke-width:0.866026">
       <rect
          style="fill:none;fill-opacity:1;stroke-width:1.73203"
@@ -1465,7 +1458,7 @@
     </g>
     <g
        id="focus-bottom"
-       transform="matrix(0.8125001,0,0,-1.3333342,-122.18763,912.51966)"
+       transform="matrix(0.8125001,0,0,-1.3333342,-71.187637,936.51967)"
        style="stroke-width:0.866025">
       <rect
          style="fill:none;fill-opacity:1;stroke-width:1.73204"
@@ -1508,7 +1501,7 @@
     </g>
     <g
        id="focus-left"
-       transform="rotate(-90,552.75974,534.75986)">
+       transform="rotate(-90,590.25973,521.25987)">
       <rect
          style="fill:none;fill-opacity:1;stroke-width:1.80277"
          id="rect80"
@@ -1542,7 +1535,7 @@
     </g>
     <g
        id="focus-topleft"
-       transform="matrix(0,-0.12499985,1.0000024,0,17.999867,888.39462)"
+       transform="matrix(0,-0.12499985,1.0000024,0,68.999861,912.39463)"
        style="stroke-width:2.82843">
       <rect
          style="fill:none;fill-opacity:1;stroke-width:12.9614"
@@ -1576,7 +1569,7 @@
     </g>
     <g
        id="focus-bottomleft"
-       transform="matrix(0,0.12499985,1.0000024,0,17.999867,872.64468)"
+       transform="matrix(0,0.12499985,1.0000024,0,68.999861,896.64469)"
        style="stroke-width:2.82843">
       <rect
          style="fill:none;fill-opacity:1;stroke-width:12.9614"
@@ -1651,29 +1644,29 @@
        y="0"
        xlink:href="#focus-left"
        id="focus-right"
-       transform="matrix(-1,0,0,1,91.999766,0)" />
+       transform="matrix(-1,0,0,1,193.99975,2.2301815e-7)" />
     <use
        x="0"
        y="0"
        xlink:href="#focus-bottomleft"
        id="focus-bottomright"
-       transform="matrix(-1,0,0,1,91.999768,6.6139959e-6)" />
+       transform="matrix(-1,0,0,1,193.99976,6.2230182e-6)" />
     <use
        x="0"
        y="0"
        xlink:href="#focus-topleft"
        id="focus-topright"
-       transform="matrix(-1,0,0,1,91.999773,1.3457338e-8)" />
+       transform="matrix(-1,0,0,1,193.99976,2.2301815e-7)" />
     <rect
        style="fill:url(#linearGradient143);fill-opacity:1;stroke-width:1.625"
        id="hover-center"
        width="26"
        height="26"
-       x="89.999893"
-       y="867.51965" />
+       x="140.99988"
+       y="891.51965" />
     <g
        id="hover-top"
-       transform="matrix(0.81250012,0,0,1.3333325,-65.187633,848.51966)"
+       transform="matrix(0.81250012,0,0,1.3333325,-14.187639,872.51967)"
        style="stroke-width:0.866026">
       <rect
          style="fill:none;fill-opacity:1;stroke-width:1.73203"
@@ -1700,7 +1693,7 @@
     </g>
     <g
        id="hover-bottom"
-       transform="matrix(0.8125001,0,0,-1.3333342,-65.187623,912.51966)"
+       transform="matrix(0.8125001,0,0,-1.3333342,-14.187629,936.51967)"
        style="stroke-width:0.866025">
       <rect
          style="fill:none;fill-opacity:1;stroke-width:1.73204"
@@ -1736,7 +1729,7 @@
     </g>
     <g
        id="hover-left"
-       transform="rotate(-90,581.25975,506.25985)">
+       transform="rotate(-90,618.75974,492.75986)">
       <rect
          style="fill:none;fill-opacity:1;stroke-width:1.80277"
          id="rect131"
@@ -1763,7 +1756,7 @@
     </g>
     <g
        id="hover-topleft"
-       transform="matrix(0,-0.12499985,1.0000024,0,74.999878,888.39462)"
+       transform="matrix(0,-0.12499985,1.0000024,0,125.99988,912.39463)"
        style="stroke-width:2.82843">
       <rect
          style="fill:none;fill-opacity:1;stroke-width:12.9614"
@@ -1786,7 +1779,7 @@
     </g>
     <g
        id="hover-bottomleft"
-       transform="matrix(0,0.12499985,1.0000024,0,74.999878,872.64468)"
+       transform="matrix(0,0.12499985,1.0000024,0,125.99988,896.64469)"
        style="stroke-width:2.82843">
       <rect
          style="fill:none;fill-opacity:1;stroke-width:12.9614"
@@ -1823,42 +1816,50 @@
        y="0"
        xlink:href="#hover-left"
        id="hover-right"
-       transform="matrix(-1,0,0,1,205.99979,6.1309813e-6)" />
+       transform="matrix(-1,0,0,1,307.99977,6.2230182e-6)" />
     <use
        x="0"
        y="0"
        xlink:href="#hover-bottomleft"
        id="hover-bottomright"
-       transform="matrix(-1,0,0,1,205.99978,1.1873022e-6)" />
+       transform="matrix(-1,0,0,1,307.99976,1.2230182e-6)" />
     <use
        x="0"
        y="0"
        xlink:href="#hover-topleft"
        id="hover-topright"
-       transform="matrix(-1,0,0,1,205.99978,-1.2647668e-6)" />
+       transform="matrix(-1,0,0,1,307.99976,-7.7698185e-7)" />
     <use
        x="0"
        y="0"
        xlink:href="#normal-left"
        id="minimized-right"
-       transform="matrix(-1,0,0,1,-4.0002252,56.000006)" />
+       transform="matrix(-1,0,0,1,97.999762,55.999994)" />
     <use
        x="0"
        y="0"
        xlink:href="#minimized-topleft"
        id="minimized-topright"
-       transform="matrix(-1,0,0,1,-4.0002201,-2.3022626e-6)" />
+       transform="matrix(-1,0,0,1,97.999762,-2.7769818e-6)" />
     <use
        x="0"
        y="0"
        xlink:href="#normal-bottomleft"
        id="minimized-bottomleft"
-       transform="translate(-1.0508101e-6,55.999988)" />
+       transform="translate(-6.7140796e-7,55.999988)" />
     <use
        x="0"
        y="0"
        xlink:href="#minimized-bottomleft"
        id="minimized-bottomright"
-       transform="matrix(-1,0,0,1,-4.0002257,-3.9594863e-7)" />
+       transform="matrix(-1,0,0,1,97.999762,-7.7698185e-7)" />
+    <rect
+       style="fill:#504945;stroke-width:2.6"
+       id="hint-stretch-borders"
+       width="1"
+       height="1"
+       x="117.99989"
+       y="925.51965"
+       inkscape:label="hint-stretch-borders" />
   </g>
 </svg>
