@@ -9,3 +9,5 @@ This is my first public development project, It's also the second ever time I'm 
 I'm still learning how this stuff works...
 
 This readme will probably change when everything is at a point where it is good enough but for now you have to feast your eyes upon unprofessional unprofessional-ness. :)
+
+also sorry for the goofy commit messages lol
