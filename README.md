@@ -3,6 +3,8 @@ Suavemente
 A theme for KDE Plasma based on Suave by phob1an.
 This theme uses the Gruvbox color scheme.
 
+Icon pack is not a part of this theme, the icon pack used in the below picture is the Gruvbox Plus Icon Pack by SylEleuth) 
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c3e432f7-4b0c-48d6-b36f-cc4ff87a492c" />
 
 Not yet finished, I am developing it regularly though.
